@@ -41,16 +41,16 @@ microphone_time = 10
 time_iteration = 15
 number_of_iterations_end = 3
 
-email_address = "ethicaltask690@gmail.com"
-password = "@wEd3#yTl&pS*Qay%p"
+email_address = "enter your email adress"
+password = "enter your password"
 
 username = getpass.getuser()
 
-toaddr = "ethicaltask690@gmail.com"
+toaddr = "enter your email address"
 
-key = "RtsIuDbDgK8lW6naGLsztdYzS_sejdvAQfiFOHzOJnE="
+key = "enter the generated key"
 
-file_path = "C:\\Users\\Home\\PycharmProjects\\pythonProject\\Key Log"
+file_path = "enter the file path"
 extend = "\\"
 file_merge = file_path + extend
 
